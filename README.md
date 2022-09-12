@@ -9,3 +9,6 @@ Kelompok 3R
 
 
 
+## Class Diagram
+![classDiag](./Readme/ClassDiag.png)
+

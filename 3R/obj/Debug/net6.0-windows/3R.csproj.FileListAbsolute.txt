@@ -16,3 +16,21 @@ C:\Users\chandra herdiputra\Desktop\chandra\3R\3R\obj\Debug\net6.0-windows\refin
 C:\Users\chandra herdiputra\Desktop\chandra\3R\3R\obj\Debug\net6.0-windows\3R.pdb
 C:\Users\chandra herdiputra\Desktop\chandra\3R\3R\obj\Debug\net6.0-windows\3R.genruntimeconfig.cache
 C:\Users\chandra herdiputra\Desktop\chandra\3R\3R\obj\Debug\net6.0-windows\ref\3R.dll
+D:\Coding\project\3R\3R\bin\Debug\net6.0-windows\3R.exe
+D:\Coding\project\3R\3R\bin\Debug\net6.0-windows\3R.deps.json
+D:\Coding\project\3R\3R\bin\Debug\net6.0-windows\3R.runtimeconfig.json
+D:\Coding\project\3R\3R\bin\Debug\net6.0-windows\3R.dll
+D:\Coding\project\3R\3R\bin\Debug\net6.0-windows\3R.pdb
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.csproj.AssemblyReference.cache
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\_3R.Form1.resources
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Forms.Home.resources
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.csproj.GenerateResource.cache
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.AssemblyInfoInputs.cache
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.AssemblyInfo.cs
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.csproj.CoreCompileInputs.cache
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.dll
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\refint\3R.dll
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.pdb
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.genruntimeconfig.cache
+D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\ref\3R.dll

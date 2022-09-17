@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chandra herdiputra\\.nuget\\packages\\": {}
+    "C:\\Users\\agnes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chandra herdiputra\\Desktop\\chandra\\3R\\3R\\3R.csproj",
+      "projectUniqueName": "D:\\Coding\\project\\3R\\3R\\3R.csproj",
       "projectName": "3R",
-      "projectPath": "C:\\Users\\chandra herdiputra\\Desktop\\chandra\\3R\\3R\\3R.csproj",
-      "packagesPath": "C:\\Users\\chandra herdiputra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chandra herdiputra\\Desktop\\chandra\\3R\\3R\\obj\\",
+      "projectPath": "D:\\Coding\\project\\3R\\3R\\3R.csproj",
+      "packagesPath": "C:\\Users\\agnes\\.nuget\\packages\\",
+      "outputPath": "D:\\Coding\\project\\3R\\3R\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chandra herdiputra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\agnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

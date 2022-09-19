@@ -1,0 +1,206 @@
+[33mcommit 4fddd0e8d7d538197e0234a5317d20eb390b2d4c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8ca4439 d0973ba
+Author: Agnes Suarna <73049491+agnessuarna@users.noreply.github.com>
+Date:   Sat Sep 17 20:45:45 2022 +0700
+
+    Merge pull request #9 from Iyas-Tr/agnes/default
+    
+    tambahan class diagram
+
+[33mcommit d0973bac09f51870ccd61d20aa809850df77327e[m[33m ([m[1;31morigin/agnes/default[m[33m)[m
+Author: agnessuarna <agnessuarna@mail.ugm.ac.id>
+Date:   Sat Sep 17 20:43:07 2022 +0700
+
+    tambahan class diagram
+
+[33mcommit 8ca44393383b60bf320dac2c862058f13587cc02[m
+Merge: 2d1e98f 1680c56
+Author: Agnes Suarna <73049491+agnessuarna@users.noreply.github.com>
+Date:   Sat Sep 17 20:35:56 2022 +0700
+
+    Merge pull request #8 from Iyas-Tr/agnes/default
+    
+    membuat codingan class diagram
+
+[33mcommit 1680c564f6a4b5d2a2875a8691a9470bb060d3e3[m
+Author: agnessuarna <agnessuarna@mail.ugm.ac.id>
+Date:   Sat Sep 17 20:33:11 2022 +0700
+
+    membuat codingan class diagram
+
+[33mcommit 2d1e98fbf0496af2647c32247ed990d0d82c3860[m
+Merge: 65e15d6 ca2730d
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Mon Sep 12 15:05:16 2022 +0700
+
+    Merge pull request #7 from Iyas-Tr/chandra/default
+    
+    membuat halaman awal, menambahkan gitignore
+
+[33mcommit ca2730da27a1b0ef79f25817b84abd949400b84d[m
+Author: frchandra <nismara.chandra@gmail.com>
+Date:   Mon Sep 12 15:04:17 2022 +0700
+
+    membuat halaman awal, menambahkan gitignore
+
+[33mcommit 65e15d6e2d9727ff835c9a359ed00483ec9063b7[m
+Merge: 9b3ac0c 276b817
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Sep 12 14:53:16 2022 +0700
+
+    Merge pull request #6 from Iyas-Tr/irhas/default
+    
+    Irhas/default
+
+[33mcommit 276b81788f9c82a247ab58167ece09a6351aa9ce[m[33m ([m[1;31morigin/irhas/default[m[33m)[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Sep 12 14:52:12 2022 +0700
+
+    Update README.md
+
+[33mcommit 79950c8e0977264cea3ba87ab74d9c003295da7f[m
+Author: Iyas-Tr <Irharsytara02@gmail.com>
+Date:   Mon Sep 12 14:49:44 2022 +0700
+
+    menambahkan diagram class
+
+[33mcommit 9b3ac0c2ff750cfdd5b297127c0a449ef7bab667[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Sun Sep 11 22:15:15 2022 +0700
+
+    Update fileindex.md
+    
+    penambahan deskripsi
+
+[33mcommit f2cfb8c44c5dfff18cb5f7c18ffec2dd0ec199f5[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Sun Sep 11 22:08:51 2022 +0700
+
+    Create fileindex.md
+    
+    keterangan mengenai proyek.
+
+[33mcommit c8644756d57cddc6db983ebaa54cb4ddd98c79e6[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Sun Sep 4 22:44:54 2022 +0700
+
+    Create _config.yml
+
+[33mcommit d3624bedbf5d6cc682a05a9b826ccefc72e7d20c[m
+Merge: 1d7ec21 5b4634a
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Tue Aug 30 19:09:56 2022 +0700
+
+    Merge pull request #5 from Iyas-Tr/chandra
+    
+    modifying readme
+
+[33mcommit 5b4634a75cb2d743867ee72befd26598782fac9d[m
+Author: Chandra Herdiputra <nismara.chandra@gmail.com>
+Date:   Tue Aug 30 19:08:52 2022 +0700
+
+    modifying readme
+
+[33mcommit 1d7ec21f3365b421383847b442dc6dfe08422138[m
+Merge: 63ad7c8 b1e265e
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 16:12:26 2022 +0700
+
+    Merge pull request #4 from Iyas-Tr/irhas
+    
+    nambah nim
+
+[33mcommit b1e265e435bca93b7fb92d1154fce0ba286ac8da[m
+Merge: fc29d7a 63ad7c8
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 16:12:18 2022 +0700
+
+    Merge branch 'main' into irhas
+
+[33mcommit fc29d7a4157fd8913608cacf35814c2f4b3c8c61[m
+Author: Iyas-Tr <Irharsytara02@gmail.com>
+Date:   Mon Aug 29 16:13:18 2022 +0700
+
+    nambah nim
+
+[33mcommit 63ad7c81042ad4e0ff02c75350678da729cee90f[m
+Merge: 2c2b237 558bbd6
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Mon Aug 29 16:01:14 2022 +0700
+
+    Merge pull request #3 from Iyas-Tr/agness
+    
+    test
+
+[33mcommit 558bbd665c2f5450ab87e437c97f291505ecb102[m
+Merge: 51483db 2c2b237
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Mon Aug 29 16:00:41 2022 +0700
+
+    Merge branch 'main' into agness
+
+[33mcommit 51483db53b9c26d727f38bdd6faa31f5a85f2822[m
+Author: agnessuarna <agnessuarna@mail.ugm.ac.id>
+Date:   Mon Aug 29 16:01:10 2022 +0700
+
+    test
+
+[33mcommit 2c2b2374a04178796643eee838863e1c1380e1ee[m
+Merge: 503e8e2 a80b0a3
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 15:53:13 2022 +0700
+
+    Merge pull request #2 from Iyas-Tr/irhas
+    
+    penambahan nim
+
+[33mcommit a80b0a32e7af13c9b954ba0523630a95986abe37[m
+Author: Iyas-Tr <Irharsytara02@gmail.com>
+Date:   Mon Aug 29 15:51:37 2022 +0700
+
+    penambahan nim
+
+[33mcommit 503e8e2e773f3c71a5708d9923c97e1c561731d5[m
+Merge: 924327a 7547aad
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 15:40:02 2022 +0700
+
+    Merge pull request #1 from Iyas-Tr/chandra
+    
+    menambahkan nomor mahasiswa chandra
+
+[33mcommit 7547aadf9033cf582187ee521e18e8a402688fe4[m
+Author: frchandra <nismara.chandra@gmail.com>
+Date:   Mon Aug 29 15:25:56 2022 +0700
+
+    menambahkan nomor mahasiswa chandra
+
+[33mcommit 924327a9a3c4d48db3815d89a7492662303a8414[m
+Author: frchandra <nismara.chandra@gmail.com>
+Date:   Mon Aug 29 15:11:50 2022 +0700
+
+    update readme
+
+[33mcommit 99cc740fed9cbd355629e16dd49fb2997a700a2a[m
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Mon Aug 29 15:06:51 2022 +0700
+
+    Update README.md
+
+[33mcommit 252131476ebdacd3febea2e6ecd32933433a1db1[m
+Author: Nismara Chandra Herdiputra <72772784+frchandra@users.noreply.github.com>
+Date:   Mon Aug 29 15:06:07 2022 +0700
+
+    Update README.md
+
+[33mcommit 51bec17145164a14c7ef9e0c5e47350e1a3af60a[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 14:59:36 2022 +0700
+
+    Update README.md
+
+[33mcommit e6b2e70448bdc03caf76a5a6d1e06156c66d573e[m
+Author: Iyas-Tr <79207757+Iyas-Tr@users.noreply.github.com>
+Date:   Mon Aug 29 14:54:06 2022 +0700
+
+    Initial commit

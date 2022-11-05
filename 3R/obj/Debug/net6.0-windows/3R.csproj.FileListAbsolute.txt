@@ -34,3 +34,27 @@ D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\refint\3R.dll
 D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.pdb
 D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\3R.genruntimeconfig.cache
 D:\Coding\project\3R\3R\obj\Debug\net6.0-windows\ref\3R.dll
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.csproj.AssemblyReference.cache
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Add_Cars.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Add_Members.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Forms.Admin.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.Form1.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.forms.Garage.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Forms.Home.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.forms.Rent_Car.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.View_Members.resources
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.csproj.GenerateResource.cache
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.AssemblyInfoInputs.cache
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.AssemblyInfo.cs
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.csproj.CoreCompileInputs.cache
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.dll
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\refint\3R.dll
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.pdb
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\bin\Debug\net6.0-windows\3R.exe
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\bin\Debug\net6.0-windows\3R.deps.json
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\bin\Debug\net6.0-windows\3R.runtimeconfig.json
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\bin\Debug\net6.0-windows\3R.dll
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\bin\Debug\net6.0-windows\3R.pdb
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\3R.genruntimeconfig.cache
+C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\ref\3R.dll

@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows.Forms;
 using System.Data.OleDb;
-using WindowsFormsApp1.Models;
+using _3R;
 
 namespace _3R.forms
 {

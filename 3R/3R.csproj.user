@@ -1,10 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Forms\Add_Cars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Add_Members.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Garage.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\View_Members.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -36,14 +36,14 @@ namespace WindowsFormsApp1.Forms
 
         private void button6_Click(object sender, EventArgs e)
         {
-            //Add_Members add_Members = new Add_Members();
-            //add_Members.Show();
+            Add_Members add_Members = new Add_Members();
+            add_Members.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            //View_Members view_Members = new View_Members();
-            //view_Members.Show();
+            View_Members view_Members = new View_Members();
+            view_Members.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -54,8 +54,8 @@ namespace WindowsFormsApp1.Forms
 
         private void button8_Click(object sender, EventArgs e)
         {
-            //Admin admin = new Admin();
-            //admin.Show();
+            Admin admin = new Admin();
+            admin.Show();
         }
 
         private void Home_Load(object sender, EventArgs e)

@@ -48,8 +48,8 @@ namespace WindowsFormsApp1.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Add_Cars add_Cars = new Add_Cars();
-            //add_Cars.Show();
+            Add_Cars add_Cars = new Add_Cars();
+            add_Cars.Show();
         }
 
         private void button8_Click(object sender, EventArgs e)

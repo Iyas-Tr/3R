@@ -38,7 +38,6 @@ C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\ne
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Add_Cars.resources
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Add_Members.resources
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Forms.Admin.resources
-C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.Form1.resources
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.forms.Garage.resources
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Forms.Home.resources
 C:\Users\agnes\OneDrive - UGM 365\Collage\Study\SMT5\Pratikum\3R\3R\obj\Debug\net6.0-windows\_3R.forms.Rent_Car.resources

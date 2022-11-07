@@ -3,21 +3,19 @@ using System.Collections.Specialized;
 using System.Data;
 using System.Net;
 using System.Windows.Forms;
-using _3R;
-using System.Drawing;
 
-namespace _3R.forms
+namespace WindowsFormsApp1
 {
     public partial class Garage : Form
-    {
+    {        
         public Garage()
         {
-            
+            InitializeComponent();
         }
 
-        private void Garage_Load()
+        private void Garage_Load(object sender, EventArgs e)
         {
-            
+            fillGrid();
         }
 
         public void fillGrid()
@@ -25,9 +23,29 @@ namespace _3R.forms
             
         }
 
-        private void NewCarModel()
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void dataGridView2_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

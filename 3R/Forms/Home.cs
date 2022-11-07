@@ -12,8 +12,8 @@ namespace WindowsFormsApp1.Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Garage garage = new Garage();
-            //garage.Show();
+            Garage garage = new Garage();
+            garage.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)

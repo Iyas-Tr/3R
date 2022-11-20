@@ -18,20 +18,20 @@ namespace WindowsFormsApp1.Forms
 
         private void button3_Click(object sender, EventArgs e)
         {
-            //Rent_Car rent_Car = new Rent_Car();
-            //rent_Car.Show();
+            Rent_Car rent_Car = new Rent_Car();
+            rent_Car.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            //Return_Car return_Car = new Return_Car();
-            //return_Car.Show();
+            RentList rentList = new RentList();
+            rentList.Show();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            //View_Cars view_Cars = new View_Cars();
-            //view_Cars.Show();
+            View_Cars view_Cars = new View_Cars();
+            view_Cars.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)

@@ -92,15 +92,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\irhar\\.nuget\\packages\\": {}
+    "C:\\Users\\agnes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-
+      "projectUniqueName": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+      "projectName": "3R",
+      "projectPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+      "packagesPath": "C:\\Users\\agnes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\irhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\agnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -150,7 +154,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

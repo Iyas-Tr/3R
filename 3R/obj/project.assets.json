@@ -13,11 +13,7 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irhar\\Source\\Repos\\3R\\3R\\3R.csproj",
-      "projectName": "3R",
-      "projectPath": "C:\\Users\\irhar\\Source\\Repos\\3R\\3R\\3R.csproj",
-      "packagesPath": "C:\\Users\\irhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irhar\\Source\\Repos\\3R\\3R\\obj\\",
+
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irhar\\AppData\\Roaming\\NuGet\\NuGet.Config",

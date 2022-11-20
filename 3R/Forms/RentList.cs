@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Return_Car : Form
+    public partial class RentList : Form
     {
 
         private MemberModel memberModel;
@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
         private int i;
 
 
-        public Return_Car()
+        public RentList()
         {
             InitializeComponent();
             memberModel = new MemberModel();

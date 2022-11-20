@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irhar\\source\\repos\\3R\\3R\\3R.csproj": {}
+    "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irhar\\source\\repos\\3R\\3R\\3R.csproj": {
+    "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irhar\\source\\repos\\3R\\3R\\3R.csproj",
+        "projectUniqueName": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
         "projectName": "3R",
-        "projectPath": "C:\\Users\\irhar\\source\\repos\\3R\\3R\\3R.csproj",
-        "packagesPath": "C:\\Users\\irhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irhar\\source\\repos\\3R\\3R\\obj\\",
+        "projectPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+        "packagesPath": "C:\\Users\\agnes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\irhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\agnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

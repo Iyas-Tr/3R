@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Npgsql;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Drawing;
@@ -34,15 +35,72 @@ namespace _3R
             this.total_Price = total_Price;
             this.is_Returned = is_Returned;
         }
+
+        public RentCarModel()
+        {
+        }
+
+        public DataTable getNotReturndedByCarId(int id)
+        {
+            con.Open();
+            NpgsqlCommand cmd = new NpgsqlCommand("select * from \"Rent_Car\" where \"CarID\"=" + id + "  AND \"Is_Returned\" = 'FALSE' ", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+            DataTable dataTable = new DataTable();
+            NpgsqlDataAdapter dataAdapter = new NpgsqlDataAdapter(cmd);
+            dataAdapter.Fill(dataTable);
+            return dataTable;
+        }
+
+        public DataTable getNotReturndedByMemberId(int id)
+        {
+            con.Open();
+            NpgsqlCommand cmd = new NpgsqlCommand("select * from \"Rent_Car\" where \"MemberID\"=" + id + "  AND \"Is_Returned\" = 'FALSE' ", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+            DataTable dataTable = new DataTable();
+            NpgsqlDataAdapter dataAdapter = new NpgsqlDataAdapter(cmd);
+            dataAdapter.Fill(dataTable);
+            return dataTable;
+        }
+
         public override void push()
         {
-
+            con.Open();
+            NpgsqlCommand cmd = new NpgsqlCommand(" INSERT INTO \"Rent_Car\" (\"MemberID\", \"CarID\", \"Rent_Date\", \"Return_Date\", \"Total_Price\", \"Is_Returned\") VALUES ('" + member_Id + "', '" + car_Id + "', '" + rent_Date + "', '" + return_Date + "', '" + total_Price + "', '" + Convert.ToByte(is_Returned) + "') ", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
         }
+
         public override void pullById(int id)
         {
+            con.Open();
+            NpgsqlCommand cmd = new NpgsqlCommand("select * from \"Rent_Car\" where \"ID\"=" + id + "", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+            DataTable dataTable = new DataTable();
+            NpgsqlDataAdapter dataAdapter = new NpgsqlDataAdapter(cmd);
+            dataAdapter.Fill(dataTable);
 
+            foreach (DataRow dataRow in dataTable.Rows)
+            {
+                this.id = Convert.ToInt32(dataRow["ID"]);
+                this.member_Id = Convert.ToInt32(dataRow["MemberID"]);
+                this.car_Id = Convert.ToInt32(dataRow["CarID"]);
+                this.rent_Date = Convert.ToString(dataRow["rent_Date"]);
+                this.return_Date = Convert.ToString(dataRow["return_Date"]);
+                this.total_Price = Convert.ToString(dataRow["Total_Price"]);
+                this.is_Returned = Convert.ToBoolean(dataRow["is_Returned"]);
+            }
+            con.Close();
         }
-        public override void update()
-        { }
+
+        public void update(int i, string date)
+        {
+            con.Open();
+            NpgsqlCommand cmd = new NpgsqlCommand("update \"Rent_Car\" set \"Return_Date\"='" + date + "', \"Is_Returned\"='TRUE' where \"ID\"=" + i + " ", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+        }
     }
 }

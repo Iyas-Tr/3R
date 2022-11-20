@@ -2,8 +2,9 @@
 using System.Data;
 using System.Windows.Forms;
 using System.Data.OleDb;
-using WindowsFormsApp1.Models;
 using Npgsql;
+using System;
+using _3R;
 
 namespace WindowsFormsApp1
 {

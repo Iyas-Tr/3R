@@ -79,3 +79,8 @@ C:\Users\irhar\Source\Repos\3R\3R\obj\Debug\net6.0-windows\refint\3R.dll
 C:\Users\irhar\Source\Repos\3R\3R\obj\Debug\net6.0-windows\3R.pdb
 C:\Users\irhar\Source\Repos\3R\3R\obj\Debug\net6.0-windows\3R.genruntimeconfig.cache
 C:\Users\irhar\Source\Repos\3R\3R\obj\Debug\net6.0-windows\ref\3R.dll
+C:\Users\irhar\source\repos\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Login.resources
+C:\Users\irhar\source\repos\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.forms.View_Members.resources
+C:\Users\irhar\source\repos\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Rent_Car.resources
+C:\Users\irhar\source\repos\3R\3R\obj\Debug\net6.0-windows\WindowsFormsApp1.Return_Car.resources
+C:\Users\irhar\source\repos\3R\3R\obj\Debug\net6.0-windows\_3R.Forms.Form1.resources

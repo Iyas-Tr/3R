@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P2IDjyFm7H6M0zrDHUMmQNiDRwJcq1xt9qqR70ifg6CVwdIz8SDn7ZcdnNyqkevWWrHR1KcDT9poOY4LmnX4xw==",
+  "dgSpecHash": "ajgQlVJ9H8fhaGpcqen5jAnLMCDOlxiNcM8PGxQbHFbXso+uhjpUhaUB+8Ud3paKbefuuT4SWivSO1/NkrJ1gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+  "projectFilePath": "C:\\Users\\irhar\\source\\repos\\3R\\3R\\3R.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\agnes\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
-    "C:\\Users\\agnes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\irhar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irhar\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\irhar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

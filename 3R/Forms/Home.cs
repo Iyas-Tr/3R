@@ -12,8 +12,8 @@ namespace WindowsFormsApp1.Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Garage garage = new Garage();
-            //garage.Show();
+            Garage garage = new Garage();
+            garage.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -42,8 +42,8 @@ namespace WindowsFormsApp1.Forms
 
         private void button7_Click(object sender, EventArgs e)
         {
-            View_Members view_Members = new View_Members();
-            view_Members.Show();
+            MemberList member_List = new MemberList();
+            member_List.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

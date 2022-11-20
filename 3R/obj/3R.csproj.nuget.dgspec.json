@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj": {}
+    "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\3R.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj": {
+    "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\3R.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+        "projectUniqueName": "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\3R.csproj",
         "projectName": "3R",
-        "projectPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+        "projectPath": "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\3R.csproj",
         "packagesPath": "C:\\Users\\agnes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\obj\\",
+        "outputPath": "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agnes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "Npgsql": {
-              "target": "Package",
-              "version": "[6.0.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

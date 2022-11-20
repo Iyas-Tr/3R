@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2mHW446MBeoeduG9cPNAkB6lEC+TtgQUmHsjASvTfaxj6ppswp9/A3tJyYEtnd+CnAvn8Qq7LYdjJdbemwuDsg==",
+  "dgSpecHash": "P2IDjyFm7H6M0zrDHUMmQNiDRwJcq1xt9qqR70ifg6CVwdIz8SDn7ZcdnNyqkevWWrHR1KcDT9poOY4LmnX4xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agnes\\OneDrive - UGM 365\\Collage\\Study\\SMT5\\Pratikum\\3R\\3R\\3R.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\agnes\\Source\\Repos\\3R\\3R\\3R.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agnes\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\agnes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

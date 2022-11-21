@@ -1,19 +1,26 @@
-using WindowsFormsApp1.Forms;
+﻿using System;
+using System.Windows.Forms;
+using WindowsFormsApp1.Forms;//
 
-namespace _3R
+namespace WindowsFormsApp1
 {
-    internal static class Program
+    static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Home());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Login());
+            //Application.Run(new View_Cars());
+            //Application.Run(new Add_Cars());
+            //Application.Run(new Add_Members()); 
+            //Application.Run(new View_Members());
+            //Application.Run(new Rent_Car());
+            //Application.Run(new Return_Car());
+            //Application.Run(new Garage());
+            //Application.Run(new Home());
+           
         }
     }
 }

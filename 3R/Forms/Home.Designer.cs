@@ -56,10 +56,11 @@ namespace WindowsFormsApp1.Forms
             this.button4.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(13, 159);
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Location = new System.Drawing.Point(11, 138);
+            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(202, 36);
+            this.button4.Size = new System.Drawing.Size(173, 31);
             this.button4.TabIndex = 3;
             this.button4.Text = "Return Car";
             this.button4.UseVisualStyleBackColor = true;
@@ -68,10 +69,11 @@ namespace WindowsFormsApp1.Forms
             // button5
             // 
             this.button5.FlatAppearance.BorderColor = System.Drawing.Color.Red;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button5.Location = new System.Drawing.Point(13, 10);
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(11, 9);
+            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(202, 36);
+            this.button5.Size = new System.Drawing.Size(173, 31);
             this.button5.TabIndex = 4;
             this.button5.Text = "Garage";
             this.button5.UseVisualStyleBackColor = true;
@@ -83,10 +85,11 @@ namespace WindowsFormsApp1.Forms
             this.button6.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button6.Location = new System.Drawing.Point(13, 19);
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Location = new System.Drawing.Point(11, 16);
+            this.button6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(202, 36);
+            this.button6.Size = new System.Drawing.Size(173, 31);
             this.button6.TabIndex = 5;
             this.button6.Text = "Add New Member";
             this.button6.UseVisualStyleBackColor = true;
@@ -98,10 +101,11 @@ namespace WindowsFormsApp1.Forms
             this.button7.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button7.Location = new System.Drawing.Point(13, 74);
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.Location = new System.Drawing.Point(11, 64);
+            this.button7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(202, 36);
+            this.button7.Size = new System.Drawing.Size(173, 31);
             this.button7.TabIndex = 6;
             this.button7.Text = "Member List";
             this.button7.UseVisualStyleBackColor = true;
@@ -109,10 +113,11 @@ namespace WindowsFormsApp1.Forms
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(13, 14);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(11, 12);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(202, 36);
+            this.button2.Size = new System.Drawing.Size(173, 31);
             this.button2.TabIndex = 1;
             this.button2.Text = "Available Car";
             this.button2.UseVisualStyleBackColor = true;
@@ -124,10 +129,11 @@ namespace WindowsFormsApp1.Forms
             this.button3.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(13, 108);
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(11, 93);
+            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(202, 36);
+            this.button3.Size = new System.Drawing.Size(173, 31);
             this.button3.TabIndex = 2;
             this.button3.Text = "Rent Car";
             this.button3.UseVisualStyleBackColor = true;
@@ -140,9 +146,10 @@ namespace WindowsFormsApp1.Forms
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button4);
-            this.panel1.Location = new System.Drawing.Point(23, 17);
+            this.panel1.Location = new System.Drawing.Point(20, 15);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(232, 218);
+            this.panel1.Size = new System.Drawing.Size(199, 189);
             this.panel1.TabIndex = 7;
             // 
             // button1
@@ -151,10 +158,11 @@ namespace WindowsFormsApp1.Forms
             this.button1.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(13, 59);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(11, 51);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(202, 36);
+            this.button1.Size = new System.Drawing.Size(173, 31);
             this.button1.TabIndex = 4;
             this.button1.Text = "Add  New Car";
             this.button1.UseVisualStyleBackColor = true;
@@ -164,9 +172,10 @@ namespace WindowsFormsApp1.Forms
             // 
             this.panel2.BackColor = System.Drawing.Color.SkyBlue;
             this.panel2.Controls.Add(this.button5);
-            this.panel2.Location = new System.Drawing.Point(23, 260);
+            this.panel2.Location = new System.Drawing.Point(20, 225);
+            this.panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(231, 59);
+            this.panel2.Size = new System.Drawing.Size(198, 51);
             this.panel2.TabIndex = 8;
             // 
             // panel3
@@ -174,27 +183,30 @@ namespace WindowsFormsApp1.Forms
             this.panel3.BackColor = System.Drawing.Color.LightBlue;
             this.panel3.Controls.Add(this.button7);
             this.panel3.Controls.Add(this.button6);
-            this.panel3.Location = new System.Drawing.Point(23, 349);
+            this.panel3.Location = new System.Drawing.Point(20, 302);
+            this.panel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(231, 122);
+            this.panel3.Size = new System.Drawing.Size(198, 106);
             this.panel3.TabIndex = 9;
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.SkyBlue;
             this.panel4.Controls.Add(this.button8);
-            this.panel4.Location = new System.Drawing.Point(610, 17);
+            this.panel4.Location = new System.Drawing.Point(523, 15);
+            this.panel4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(123, 59);
+            this.panel4.Size = new System.Drawing.Size(106, 51);
             this.panel4.TabIndex = 9;
             // 
             // button8
             // 
             this.button8.FlatAppearance.BorderColor = System.Drawing.Color.Red;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button8.Location = new System.Drawing.Point(12, 11);
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.Location = new System.Drawing.Point(10, 10);
+            this.button8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(98, 36);
+            this.button8.Size = new System.Drawing.Size(84, 31);
             this.button8.TabIndex = 4;
             this.button8.Text = "Admin";
             this.button8.UseVisualStyleBackColor = true;
@@ -205,26 +217,28 @@ namespace WindowsFormsApp1.Forms
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(260, 17);
+            this.pictureBox1.Location = new System.Drawing.Point(223, 15);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(345, 454);
+            this.pictureBox1.Size = new System.Drawing.Size(296, 393);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
             // Home
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(752, 496);
+            this.ClientSize = new System.Drawing.Size(645, 430);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Home";
             this.Text = "Home";
             this.Load += new System.EventHandler(this.Home_Load);
